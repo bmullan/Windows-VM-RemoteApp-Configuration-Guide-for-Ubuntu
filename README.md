@@ -1,6 +1,7 @@
-# Create an LXD Windows VM and Configure it to run  
-# Windows applications as RemoteApps on your Ubuntu
-# Desktop in their own individual Gnome Windows
+***Create an LXD Windows VM and Configure it to run  
+Windows applications as RemoteApps on your Ubuntu
+Desktop in their own individual Gnome Windows***
+Brian Mullan (c) MIT (Sept 10,2020)
 
 The Configuration Guide PDF provided in this Repository includes all the steps required to:
 
