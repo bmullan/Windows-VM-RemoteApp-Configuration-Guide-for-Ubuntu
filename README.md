@@ -21,7 +21,7 @@ The example xfreerdp command line:
 * configures a "shared-folder" that you can exchange/share files between your Windows VM and your Ubuntu Host.
 * Enables Sound from your Window applications to play through your Ubuntu Host's speakers
 
-Please review the Windows VM RemoteApp Configuration Guide PDF for all of the installation/configuration steps
-required.
+Please review the ***LXD Windows VM amd RemoteApp Configuration Guide*** PDF for all of the installation/configuration 
+steps required.
 
 
